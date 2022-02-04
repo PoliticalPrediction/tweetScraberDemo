@@ -1,2 +1,2 @@
-# tweetScraberDemo
-Simple tweet scraber example.
+# tweetScraperDemo
+Simple tweet scraper example.
